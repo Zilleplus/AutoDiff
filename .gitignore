@@ -3,3 +3,9 @@
 
 bin
 debug
+
+src/autoBackDiff/obj
+tests/autoBackDiffTests/obj
+
+src/autoBackDiff/bin
+tests/autoBackDiffTests/bin
